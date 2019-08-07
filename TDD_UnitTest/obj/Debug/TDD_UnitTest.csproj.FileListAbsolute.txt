@@ -1,0 +1,5 @@
+c:\users\ozgurd\documents\visual studio 2012\Projects\TestDrivenDevelopment\TDD_UnitTest\bin\Debug\TDD_UnitTest.dll
+c:\users\ozgurd\documents\visual studio 2012\Projects\TestDrivenDevelopment\TDD_UnitTest\bin\Debug\TDD_UnitTest.pdb
+c:\users\ozgurd\documents\visual studio 2012\Projects\TestDrivenDevelopment\TDD_UnitTest\obj\Debug\TDD_UnitTest.csprojResolveAssemblyReference.cache
+c:\users\ozgurd\documents\visual studio 2012\Projects\TestDrivenDevelopment\TDD_UnitTest\obj\Debug\TDD_UnitTest.dll
+c:\users\ozgurd\documents\visual studio 2012\Projects\TestDrivenDevelopment\TDD_UnitTest\obj\Debug\TDD_UnitTest.pdb
